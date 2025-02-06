@@ -1,6 +1,6 @@
 # EKS Opinionated Clusters Workshop
 
-Welcome to the repository of the [EKS Opinionated Clusters workshop](https://eksopinionatedclustersworkshop.com)!
+Welcome to the repository of the [EKS Opinionated Clusters Workshop](https://eksopinionatedclustersworkshop.com)!
 
 ## Introduction
 
@@ -12,7 +12,7 @@ This workshop is designed to showcase how ISV solutions can complement and exten
 
 ## Running the workshop
 
-Please head over to [EKS Opinionated Clusters](https://eksopinionatedclustersworkshop.com).
+Please head over to [EKS Opinionated Clusters](https://aws-samples.github.io/eks-opinionated-clusters/).
 
 ## Security
 

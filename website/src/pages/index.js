@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="Amazon Web Services workshop for Elastic Kubernetes Service"
+      description="AWS workshop for EKS Opinionated Clusters"
     >
       <HomepageHeader />
       <main>

@@ -8,7 +8,7 @@ information to effectively respond to your bug report or contribution.
 
 ## Adding new Labs
 
-If you are an ISV and would like to propose the addition of a new lab about your solution, please see [ADDING_NEW_LABS](ADDING_NEW_LABS).
+If you are an ISV and would like to propose the addition of a new lab about your solution, please see [ADDING_NEW_LABS](ADDING_NEW_LABS.md).
 
 ## Reporting Bugs/Feature Requests
 

@@ -18,10 +18,9 @@ Once you received go-ahead, proceed as explained below.
 
 Create an empty repo in your GitHub organization.
 
-Clone this repo by running:
+Fork this repo and after that, run the following commands:
 
 ```bash
-git clone git@github.com:aws-samples/eks-opinionated-clusters.git
 cd eks-opinionated-clusters
 git submodule init
 git pull --recurse-submodules

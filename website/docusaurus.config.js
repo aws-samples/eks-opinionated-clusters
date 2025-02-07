@@ -120,21 +120,9 @@ const config = {
           },
           {
             type: "doc",
-            docId: "application/index",
-            position: "left",
-            label: "Application Definition and Development",
-          },
-          {
-            type: "doc",
             docId: "provisioning/index",
             position: "left",
             label: "Provisioning",
-          },
-          {
-            type: "doc",
-            docId: "runtime/index",
-            position: "left",
-            label: "Runtime",
           },
           {
             type: "doc",
@@ -148,7 +136,19 @@ const config = {
             position: "left",
             label: "Observability",
           },
-          {//TODO change url
+          {
+            type: "doc",
+            docId: "runtime/index",
+            position: "left",
+            label: "Runtime",
+          },
+          {
+            type: "doc",
+            docId: "dx/index",
+            position: "left",
+            label: "Developer Experience",
+          },
+          {
             href: "https://github.com/aws-samples/eks-opinionated-clusters",
             position: "right",
             className: "header-github-link",

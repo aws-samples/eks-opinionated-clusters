@@ -10,11 +10,11 @@ This hands-on workshop is designed to help you explore and understand how variou
 
 You'll get practical experience working with popular ISV products that complement EKS in areas such as:
 
-- **Application Definition and Development**, grouping tools that enable engineers to build applications
-- **Runtime**, including components required for container operations on Amazon EKS. This covers container runtime software that initiates container execution, solutions for managing persistent data storage, and tools that handle container networking and connectivity
-- **Observability**, describing the degree to which a system can be understood from its external outputs
 - **Orchestration**, featuring tools that manage the execution and connectivity of applications, spanning components that enable communication and tools that provide the automation and resilience capabilities essential for scaling applications effectively
 - **Provisioning**, including essential tools and solutions that establish and strengthen the core infrastructure required for building Kubernetes-based applications
+- **Observability**, describing the degree to which a system can be understood from its external outputs
+- **Runtime**, including components required for container operations on Amazon EKS. This covers container runtime software that initiates container execution, solutions for managing persistent data storage, and tools that handle container networking and connectivity
+- **Developer Experience**, grouping tools that enable engineers to build applications
 
 By the end of this workshop, you'll have a solid understanding of how to leverage ISV solutions to extend your EKS capabilities and optimize your container workloads on AWS.
 

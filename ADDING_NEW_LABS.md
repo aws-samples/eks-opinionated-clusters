@@ -12,7 +12,7 @@ You need to have a GitHub organization and be able to create a public repository
 
 First of all, please create an issue presenting your product and why you think it fits this workshop.
 
-## Create the Lab
+## Create your Lab
 
 Once you received go-ahead, proceed as explained below.
 
@@ -44,6 +44,17 @@ Build your lab by creating the necessary `.md` files in your directory.
 git commit -am 'first commit'
 git push origin main
 ```
+
+## Test your Lab
+
+To test the workshop, together with your newly created lab, you can run the follwoing commands from the `website` directory of this repo:
+
+```bash
+npm i
+npm run start
+```
+
+A browser window will open at http://localhost:3000.
 
 ## Create a Pull Request for this repo
 
